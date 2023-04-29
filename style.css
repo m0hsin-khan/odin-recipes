@@ -1,0 +1,39 @@
+body {
+    background-color: #101010;
+    color: whitesmoke;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.list {
+    list-style: none;
+}
+
+h1,
+.list {
+    text-align: center;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+.image {
+    width: 700px;
+    height: auto;
+}
+
+.biryani-img,
+.pancakes-img,
+.samosa-img {
+    width: 500px;
+    height: auto;
+}
+
+.desc,
+.ingre,
+.steps {
+    text-align: center;
+}
